@@ -82,11 +82,6 @@ const config = {
             label: "GitHub",
             position: "right",
           },
-          {
-            href: "https://github.com/easyops-cn/docusaurus-search-local",
-            label: "GitHub",
-            position: "right",
-          },
         ],
       },
       footer: {
