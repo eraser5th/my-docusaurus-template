@@ -72,9 +72,15 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "aizuHackSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "AizuHack",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "practicalProgrammingSidebar",
+            position: "left",
+            label: "実践的プログラミング",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
